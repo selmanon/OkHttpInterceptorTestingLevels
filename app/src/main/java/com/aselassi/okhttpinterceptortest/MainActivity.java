@@ -31,8 +31,6 @@ public class MainActivity extends AppCompatActivity {
         }
       }
     });
-
-
   }
 
   String run(String url) throws IOException {
